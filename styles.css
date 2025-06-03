@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+table{
+	border-collapse: separate;
+	border-spacing: 10px;
+	font-family: Arial, sans-serif;
+	
+}
+
+th,td {
+	border: 2px solid #ccc;
+	padding: 15px 30px;
+	text-align: left;
+	border-radius: 10px;
+	font-size: 18px;
+}
+
+th{
+	font-weight: bold;
+	font-size: 20px;
+}
